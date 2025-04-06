@@ -36,8 +36,8 @@ Solder to the footprint depending on the side, you'll install this adapter in yo
 
 | Variation | Top-view | Bottom view |
 | :---         |     :---:      | :---: |
-| Simple   | ![Simple top view](images\render\TypeC_simple_top.png)     | ![Simple bottom view](images\render\TypeC_simple_bottom.png)    |
-| With ESD     | ![ESD top view](images\render\TypeC_with_ESD_top.png)      | ![ESD bottom view](images\render\TypeC_with_ESD_bottom.png)      |
+| Simple   | ![Simple top view](images/render/TypeC_simple_top.png)     | ![Simple bottom view](images/render/TypeC_simple_bottom.png)    |
+| With ESD     | ![ESD top view](images/render/TypeC_with_ESD_top.png)      | ![ESD bottom view](images/render/TypeC_with_ESD_bottom.png)      |
 
 ## Remarks
 
