@@ -43,7 +43,12 @@ Solder to the footprint depending on the side, you'll install this adapter in yo
 
 There are a few tended vias used in these PCB, which is not ussually recomended. However, it seem to be the safest way of having some connections under the USB connector.  
 
-THe only thing I would like to improove in these PCB is to find compatible USB Type C connector with water-proof housing.
+## Thoughts on further
+
+The only two things I would like to improove in these PCB are:
+
+- to find pin-to-pin compatible USB Type C connector with water-proof housing
+- havin extra the PCB mounting bracket (like the availble with M2 screws) 
 
 ## Inspirations
 
