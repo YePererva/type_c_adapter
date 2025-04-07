@@ -43,4 +43,33 @@ Solder to the footprint depending on the side, you'll install this adapter in yo
 
 There are a few tended vias used in these PCB, which is not ussually recomended. However, it seem to be the safest way of having some connections under the USB connector.  
 
+THe only thing I would like to improove in these PCB is to find compatible USB Type C connector with water-proof housing.
+
+## Inspirations
+
+There are a few similar solutions on market. Not all of them has even footprints for pull-down resistors, and none of them have footprints for flex flat cable.
+
+### Regular breakout boards
+
+Available from manufacturers as [Adafruit](https://www.adafruit.com/product/4090), [Sparkfun](https://www.sparkfun.com/sparkfun-usb-c-breakout.html), [Popolu](https://www.pololu.com/product/2585), etc.
+
+Usually have access to all additional pins (`CC1`, `CC2`, etc.) which make them large. However these variations are breadboard friendly.
+
+|   ![](images/other_products/Adafruit_USB-C_Breakout.jpg) |  ![](images/other_products/SparkFun_USB-C_Breakout.jpg)  |
+| -- | -- |
+
+### Simpistic breakout boards
+
+Available from [Adafruit](https://www.adafruit.com/product/5180) and and some not so known brands. Usually very compact and might have the soldering place for breadboard pins.
+
+|   ![](images/other_products/Adafruit_Simple_USB-C_Socket_Breakout.jpg) |  ![](images/other_products/barebone.jpg)  |
+| -- | -- |
+
+### Other
+
+[μC USB Type C Breakout Board](https://www.tindie.com/products/casualcoders/c-usb-type-c-breakout-board-5-pack/) by [Casual Coders](https://www.tindie.com/stores/casualcoders/) on Tindie.
+
+Also, available on [GitHub](https://github.com/CasualCodersProjects/uC-Breakout)
+
+It seem to be nice, but I don't need access to all 8 pins, it uses small size resistors and can't be used with breadboard. 
 
